@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 # PREVIEW
 <img src="https://user-images.githubusercontent.com/27208120/62321424-6e61be80-b4c4-11e9-8ee3-c2761d642a2b.png" height=640>
+=======
+# Flutter-Project-Sample
+<img src="https://user-images.githubusercontent.com/27208120/62361148-40b85c00-b53c-11e9-808f-baf747a76624.png" height=450 hspace="40"><img src="https://user-images.githubusercontent.com/27208120/62361434-d48a2800-b53c-11e9-8471-bead41506df9.png" height=450>
+>>>>>>> f962e8d037c9b7c3497bb66d6057f6c77b6c9df7
