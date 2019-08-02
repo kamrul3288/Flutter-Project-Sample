@@ -1,0 +1,29 @@
+PODS:
+  - AccountKit (5.3.0)
+  - Flutter (1.0.0)
+  - flutter_account_kit (0.0.1):
+    - AccountKit
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `.symlinks/flutter/ios`)
+  - flutter_account_kit (from `.symlinks/plugins/flutter_account_kit/ios`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - AccountKit
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: ".symlinks/flutter/ios"
+  flutter_account_kit:
+    :path: ".symlinks/plugins/flutter_account_kit/ios"
+
+SPEC CHECKSUMS:
+  AccountKit: a196a15d284a5f21137f20bae9db84c90489a8e7
+  Flutter: 58dd7d1b27887414a370fcccb9e645c08ffd7a6a
+  flutter_account_kit: a770cb4dd69c5be7f816cbf769858c8d7d08d328
+
+PODFILE CHECKSUM: 7fb83752f59ead6285236625b82473f90b1cb932
+
+COCOAPODS: 1.7.5
